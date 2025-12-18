@@ -1,16 +1,33 @@
-# Apple Web
-
-This high-fidelity frontend project is a technical reproduction of the Apple iPhone 15 Pro website, developed following a tutorial by the YouTube channel JavaScript Mastery. Built using ReactJS and ViteJS, and deployed on Vercel, it showcases advanced web development capabilities focused on visual fidelity and complex interactions driven by animation and 3D graphics. The implementation utilizes GSAP (GreenSock) for sophisticated custom animations, including scroll triggers, staggers, and detailed timeline management. Furthermore, the project integrates ThreeJS to render and animate interactive 3D models with dynamic lighting and viewports. The interface features a custom video slider with progress tracking and is styled using TailwindCSS to ensure complete responsiveness and optimal performance across all devices.
-
-![apple](https://github.com/user-attachments/assets/de5426e7-116a-4371-bc1e-afaa02028926)
-
 # Apple iPhone 15 Pro – Interactive Web Experience
 
 A high-fidelity, Apple-inspired interactive web experience showcasing the **iPhone 15 Pro**.  
 This project focuses on **advanced UI animation, 3D rendering, and smooth user interaction**, combining **GSAP**, **React Three Fiber**, and **modern frontend architecture** to deliver a premium, product-level presentation.
 
-🔗 **Live Repository:**  
-https://github.com/SALVADORPOETA/Apple-web-sm
+This project was developed by following a **tutorial from the YouTube channel *JavaScript Mastery***, which itself was created using the **visual design and inspiration of the Apple website**.  
+The purpose of this project is **educational and portfolio-oriented**, showcasing advanced frontend techniques used in modern, animation-heavy web experiences.
+
+![apple](https://github.com/user-attachments/assets/de5426e7-116a-4371-bc1e-afaa02028926)
+
+---
+
+## 📌 Project Context & Attribution
+
+* **Tutorial Source:**  
+  JavaScript Mastery (YouTube)
+
+* **Design Inspiration:**  
+  Apple iPhone 15 Pro Page (Original website design)
+
+* **Project Purpose:**  
+  Learning and demonstrating:
+  * 3D rendering in the browser with React Three Fiber
+  * Advanced GSAP + ScrollTrigger synchronization
+  * Dynamic video carousel management
+  * Performance monitoring with Sentry
+
+> [!IMPORTANT]  
+> This project is **not an original product design**.  
+> It is an **educational implementation** intended to practice and demonstrate frontend engineering skills based on an existing tutorial and design reference.
 
 ---
 
