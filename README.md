@@ -1,10 +1,8 @@
 # Apple iPhone 15 Pro – Interactive Web Experience
 
-A high-fidelity, Apple-inspired interactive web experience showcasing the **iPhone 15 Pro**.  
-This project focuses on **advanced UI animation, 3D rendering, and smooth user interaction**, combining **GSAP**, **React Three Fiber**, and **modern frontend architecture** to deliver a premium, product-level presentation.
+A high-fidelity, Apple-inspired interactive web experience showcasing the **iPhone 15 Pro**. This project focuses on **advanced UI animation, 3D rendering, and smooth user interaction**, combining **GSAP**, **React Three Fiber**, and **modern frontend architecture** to deliver a premium, product-level presentation.
 
-This project was developed by following a **tutorial from the YouTube channel *JavaScript Mastery***, which itself was created using the **visual design and inspiration of the Apple website**.  
-The purpose of this project is **educational and portfolio-oriented**, showcasing advanced frontend techniques used in modern, animation-heavy web experiences.
+This project was developed by following a **tutorial from the YouTube channel *JavaScript Mastery***, which itself was created using the **visual design and inspiration of the Apple website**. The purpose of this project is **educational and portfolio-oriented**, showcasing advanced frontend techniques used in modern, animation-heavy web experiences.
 
 ![apple](https://github.com/user-attachments/assets/de5426e7-116a-4371-bc1e-afaa02028926)
 
