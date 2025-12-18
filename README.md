@@ -105,10 +105,9 @@ src/
 │   └── Navbar.jsx
 ├── constants/
 │   └── index.js
-├── utils/
-│   ├── animations.js
-│   └── index.js
-└── App.jsx
+└── utils/
+    ├── animations.js
+    └── index.js
 ```
 
 ---
