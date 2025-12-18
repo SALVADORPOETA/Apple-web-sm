@@ -114,10 +114,6 @@ src/
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Node.js **v18+**
-- npm or yarn
-
 ### Installation
 ```bash
 git clone https://github.com/SALVADORPOETA/Apple-web-sm.git
