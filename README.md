@@ -168,7 +168,7 @@ http://localhost:5173
 
 ---
 
-## 👤 Author
+## 👨🏽‍💻 Developer
 
 **Salvador Martínez**  
 Full-Stack Developer | Frontend & 3D Web Enthusiast
