@@ -3,3 +3,173 @@
 This high-fidelity frontend project is a technical reproduction of the Apple iPhone 15 Pro website, developed following a tutorial by the YouTube channel JavaScript Mastery. Built using ReactJS and ViteJS, and deployed on Vercel, it showcases advanced web development capabilities focused on visual fidelity and complex interactions driven by animation and 3D graphics. The implementation utilizes GSAP (GreenSock) for sophisticated custom animations, including scroll triggers, staggers, and detailed timeline management. Furthermore, the project integrates ThreeJS to render and animate interactive 3D models with dynamic lighting and viewports. The interface features a custom video slider with progress tracking and is styled using TailwindCSS to ensure complete responsiveness and optimal performance across all devices.
 
 ![apple](https://github.com/user-attachments/assets/de5426e7-116a-4371-bc1e-afaa02028926)
+
+# Apple iPhone 15 Pro – Interactive Web Experience
+
+A high-fidelity, Apple-inspired interactive web experience showcasing the **iPhone 15 Pro**.  
+This project focuses on **advanced UI animation, 3D rendering, and smooth user interaction**, combining **GSAP**, **React Three Fiber**, and **modern frontend architecture** to deliver a premium, product-level presentation.
+
+🔗 **Live Repository:**  
+https://github.com/SALVADORPOETA/Apple-web-sm
+
+---
+
+## ✨ Features
+
+- **Apple-style Hero Section**
+  - Responsive video source switching (desktop / mobile)
+  - GSAP-powered entrance animations
+
+- **Animated Highlights Carousel**
+  - Smooth horizontal video transitions
+  - Scroll-triggered playback
+  - Custom progress indicators synchronized with video duration
+  - Play / Pause / Replay controls
+
+- **Interactive 3D iPhone Model**
+  - Real-time 3D rendering with **React Three Fiber**
+  - Color and size switching
+  - Orbit controls with rotation state tracking
+  - Seamless animated transitions between model views
+
+- **Advanced Animations**
+  - GSAP + ScrollTrigger integration
+  - Timeline-based transitions
+  - Precise video ↔ animation synchronization
+
+- **Performance & Monitoring**
+  - Integrated **Sentry Profiler** for performance tracking
+  - Lazy loading with `Suspense`
+
+---
+
+## 🧠 Technical Highlights
+
+- Complex state coordination for multimedia playback
+- Manual GSAP ticker synchronization with HTML5 video
+- Multi-view 3D scene management using `@react-three/drei/View`
+- Physically-based lighting and environment reflections
+- Clean separation of concerns between UI, animation, and 3D logic
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- **React**
+- **Vite**
+- **Tailwind CSS**
+
+### Animation
+- **GSAP**
+- **GSAP ScrollTrigger**
+- **@gsap/react**
+
+### 3D & Graphics
+- **Three.js**
+- **@react-three/fiber**
+- **@react-three/drei**
+
+### Performance & Monitoring
+- **Sentry (Profiler & Error Tracking)**
+
+---
+
+## 📁 Project Structure
+```
+src/
+├── components/
+│   ├── Hero.jsx
+│   ├── Highlights.jsx
+│   ├── VideoCarousel.jsx
+│   ├── Model.jsx
+│   ├── ModelView.jsx
+│   ├── IPhone.jsx
+│   ├── Lights.jsx
+│   ├── Loader.jsx
+│   └── Navbar.jsx
+├── constants/
+│   └── index.js
+├── utils/
+│   ├── animations.js
+│   └── index.js
+└── App.jsx
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js **v18+**
+- npm or yarn
+
+### Installation
+```bash
+git clone https://github.com/SALVADORPOETA/Apple-web-sm.git
+cd Apple-web-sm
+npm install
+```
+
+### Run the project
+```bash
+npm run dev
+```
+
+Open your browser at:
+```
+http://localhost:5173
+```
+
+---
+
+## 🎥 3D Model Attribution
+
+**Model:** Apple iPhone 15 Pro Max Black  
+**Author:** Polyman  
+**Source:** Sketchfab  
+**License:** CC BY 4.0  
+[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## 📌 Design & UX Goals
+
+- Replicate Apple's product-launch visual language
+- Prioritize smooth motion and cinematic transitions
+- Emphasize interaction over static presentation
+- Maintain high performance despite heavy animation and 3D rendering
+
+---
+
+## 📈 Performance Considerations
+
+- Lazy-loaded 3D assets with `Suspense`
+- Optimized GSAP timelines
+- Controlled re-renders using `useRef`
+- Sentry profiling for runtime analysis
+
+---
+
+## 👤 Author
+
+**Salvador Martínez**  
+Full-Stack Developer | Frontend & 3D Web Enthusiast
+
+- GitHub: [https://github.com/SALVADORPOETA](https://github.com/SALVADORPOETA)
+- LinkedIn: [https://www.linkedin.com/in/salvador-martinez-sm/](https://www.linkedin.com/in/salvador-martinez-sm/)
+
+---
+
+## 📄 License
+
+This project is for **educational and portfolio purposes only**.  
+Apple and iPhone are trademarks of Apple Inc.  
+This project is not affiliated with or endorsed by Apple.
+
+---
+
+## ⭐ If you like this project
+
+Consider starring the repository and connecting with me on LinkedIn.  
+Feedback and collaboration opportunities are always welcome.
