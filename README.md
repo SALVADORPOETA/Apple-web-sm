@@ -171,7 +171,7 @@ Full-Stack Developer | Frontend & 3D Web Enthusiast
 
 ---
 
-## 📄 License
+## ⚖️ License
 
 This project is for **educational and portfolio purposes only**.  
 Apple and iPhone are trademarks of Apple Inc.  
@@ -179,7 +179,4 @@ This project is not affiliated with or endorsed by Apple.
 
 ---
 
-## ⭐ If you like this project
-
-Consider starring the repository and connecting with me on LinkedIn.  
-Feedback and collaboration opportunities are always welcome.
+**Made by Salvador Martinez**
